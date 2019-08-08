@@ -1,0 +1,45 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ourProject:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ourProject_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ourProject" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/el-api.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/jasper.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/jsp-api.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/catalina.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/ecj-4.5.1.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/jasper-el.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/commons-io.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-api.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/catalina-ha.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/servlet-api.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-util.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/catalina-ant.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/websocket-api.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/jspSmartUpload.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-i18n-es.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-i18n-fr.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-i18n-ja.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/annotations-api.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/json_simple-1.1.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/commons-fileupload.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/catalina-storeconfig.jar" />
+          <element id="file-copy" path="C:/Program Files/apache-tomcat-8.0.41-windows-x86/apache-tomcat-8.0.41/lib/mysql-connector-java-8.0.16.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ourProject/web/Web" />
+    </root>
+  </artifact>
+</component>
