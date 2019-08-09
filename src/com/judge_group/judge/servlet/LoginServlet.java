@@ -38,7 +38,7 @@ public class LoginServlet extends HttpServlet {
                 response.sendRedirect("");
         } else {
             //failed,stay at the current jsp page
-            response.sendRedirect("");
+            response.sendRedirect("index.jsp?error=yes");
         }
     }
 }
