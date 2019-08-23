@@ -2,10 +2,11 @@
   Created by IntelliJ IDEA.
   User: hp
   Date: 2019/8/23
-  Time: 17:31
+  Time: 17:25
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 
@@ -46,7 +47,7 @@
             <header>
                 <div class="header-w3layouts">
                     <h1>
-                        <a class="navbar-brand logo" href="index.jsp">
+                        <a class="navbar-brand logo" href="login_layer.jsp">
                             JUSTICE
                         </a>
                     </h1>
@@ -56,10 +57,10 @@
 
                         <ul class="menu">
                             <li class="active">
-                                <a href="#">普通用户</a>
+                                <a href="index.jsp">普通用户</a>
                             </li>
                             <li class="">
-                                <a href="login_layer.jsp">我是律师</a>
+                                <a href="#">我是律师</a>
                             </li>
                         </ul>
                     </nav>
@@ -69,14 +70,14 @@
             </header>
             <!-- //header -->
             <div class="content-inner-info">
-                <h2>Say Hello MyUser</h2>
+                <h2>Say Hello MyLayer</h2>
                 <div class="content-w3layouts-main">
 
                     <div class="form-w3ls-left-info">
                         <form action=LoginServlet method="post">
 
-                            <input name="tel" type="text" placeholder="用户名" required="" />
-                            <input name="status" type="hidden" required="" value="true" required="" />
+                            <input name="tel" type="text" placeholder="手机或邮箱" required="" />
+                            <input name="status" type="hidden" required="" value="false" required="" />
                             <input name="password" type="password" placeholder="密码" required=""/>
                             <div class="bottom">
                                 <button class="btn" type="submit">登陆</button>

@@ -971,13 +971,18 @@ ul.w3layouts-icons li a.twit:hover {
 	height: 300px;	
 }
 .bottom_register{
-	margin-top: 60px;
+	margin-top: -20px;
+	margin-left: 300px;
+	
+}
+.bottom_forget{
+	margin-top: 80px;
 	margin-left: 10px;
 	
 }
 .register_color{
 	color: #FFFAFA;
-	font-size: 14px;
-	text-decoration: underline;
+	font-size: 16px;
+	text-decoration: none;
 }
 /*--//responsive--*/
